@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AI recipe generator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is a Python application that generates recipes based on user-specified ingredients using Gemini API. The application is deployed on Streamlit, providing a user-friendly interface for generating recipes.",
+    url: "https://github.com/Sruttz/AIGeneratedRecipes",
   },
   {
-    title: "Web Development for Beginners",
+    title: "PDF Chatbot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project is a Python application called PDF Chatbot which merges text extraction, document analysis, language translation, and email automation",
+    url: "https://github.com/Sruttz/PDF-Chatbot",
   },
   {
-    title: "My Resume Site",
+    title: "Blockchain-Buying colors",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project is a decentralized application (DApp) built on Ethereum blockchain using Solidity smart contracts for Buying colours within credit limit . ",
+    url: "https://github.com/Sruttz/BuyingColour-CreditLimit",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Image Dehazing",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Image Dehazing project focuses on enhancing the clarity of images obscured by haze or fog using the AOD-Net (All-in-One Dehazing Network) a Deep Learning model.",
+    url: "https://github.com/Sruttz/Image-Dehazing",
   },
 ];
 
