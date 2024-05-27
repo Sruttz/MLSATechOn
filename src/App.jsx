@@ -29,7 +29,7 @@ const siteProps = {
   email: "Sruthika.Sivakumar@studentambassadors.com",
   gitHub: "Sruttz",
   instagram: "",
-  linkedIn: "SruthikaSivakumar",
+  linkedIn: "sruthika-sivakumar-7247551a6",
   medium: "",
   twitter: "",
   youTube: "",
