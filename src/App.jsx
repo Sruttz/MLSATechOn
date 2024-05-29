@@ -16,7 +16,7 @@ import "./styles.css";
 
 /**
  * This object represents your information. The project is set so that you
- * only need to update these here, and values are passed a properties to the
+ * only need to update these here, and values are passed as properties to the
  * components that need that information.
  *
  * Update the values below with your information.
@@ -49,3 +49,5 @@ const App = () => {
     </div>
   );
 };
+
+export default App;
